@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# IDE
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Sensitive database
+data/*.db
